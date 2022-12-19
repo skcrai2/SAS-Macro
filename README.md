@@ -1,5 +1,5 @@
 # SAS-Macro
-Learn to use SAS Macros basics
+Learn to use SAS Macro basics
 
 The attached SAS code was used to answer the following questions:
 
